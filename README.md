@@ -12,16 +12,27 @@ It helps users manage daily tasks efficiently with task categories, priorities, 
 ## 🚀 Features
 
 ✅ Add New Tasks
+
 ✅ Set Task Priority
+
 ✅ Task Categories
+
 ✅ Due Date Selection
+
 ✅ Search Tasks
+
 ✅ Filter Tasks (All / Pending / Done)
+
 ✅ Sort Tasks
+
 ✅ Progress Tracking
+
 ✅ Mark Tasks as Completed
+
 ✅ Clear Completed Tasks
+
 ✅ Responsive UI Design
+
 ✅ Beginner Friendly Project
 
 ---
