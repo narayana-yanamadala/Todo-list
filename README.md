@@ -1,32 +1,36 @@
 # ✅ DoFlow – To-Do List Application
 
-DoFlow is a modern and responsive **To-Do List Application** built using **HTML, CSS, and JavaScript**.  
+DoFlow is a modern and responsive **To-Do List Application** built using **HTML, CSS, and JavaScript**.
 It helps users manage daily tasks efficiently with task categories, priorities, filtering, searching, and progress tracking.
+
+## 🌐 Live Demo
+
+🔗 **Deployment Link:** https://tda-ruby.vercel.app/
 
 ---
 
 ## 🚀 Features
 
-✅ Add New Tasks  
-✅ Set Task Priority  
-✅ Task Categories  
-✅ Due Date Selection  
-✅ Search Tasks  
-✅ Filter Tasks (All / Pending / Done)  
-✅ Sort Tasks  
-✅ Progress Tracking  
-✅ Mark Tasks as Completed  
-✅ Clear Completed Tasks  
-✅ Responsive UI Design  
-✅ Beginner Friendly Project  
+✅ Add New Tasks
+✅ Set Task Priority
+✅ Task Categories
+✅ Due Date Selection
+✅ Search Tasks
+✅ Filter Tasks (All / Pending / Done)
+✅ Sort Tasks
+✅ Progress Tracking
+✅ Mark Tasks as Completed
+✅ Clear Completed Tasks
+✅ Responsive UI Design
+✅ Beginner Friendly Project
 
 ---
 
 ## 🛠️ Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript
+* HTML5
+* CSS3
+* JavaScript
 
 ---
 
@@ -47,10 +51,11 @@ To-Do-List-Application/
 ## 📸 Preview
 
 Modern task management interface with:
-- Progress tracking
-- Task filtering
-- Search functionality
-- Priority management
+
+* Progress tracking
+* Task filtering
+* Search functionality
+* Priority management
 
 ---
 
@@ -62,15 +67,11 @@ Modern task management interface with:
 git clone https://github.com/narayana-yanamadala/To-List-Application.git
 ```
 
----
-
 ### 2️⃣ Open the Project Folder
 
 ```bash
 cd To-List-Application
 ```
-
----
 
 ### 3️⃣ Run the Application
 
@@ -80,31 +81,37 @@ Open `Index.html` in your browser.
 
 ## 📚 Concepts Used
 
-- DOM Manipulation
-- Event Handling
-- Local Storage
-- JavaScript Arrays & Objects
-- Dynamic UI Rendering
-- Responsive Web Design
+* DOM Manipulation
+* Event Handling
+* Local Storage
+* JavaScript Arrays & Objects
+* Dynamic UI Rendering
+* Responsive Web Design
 
 ---
 
 ## 🔍 Functionalities
 
-| Feature | Description |
-|---|---|
-| Add Task | Create new tasks |
-| Search | Find tasks instantly |
-| Filter | View pending/completed tasks |
-| Priority | Manage task importance |
-| Progress Bar | Track completion percentage |
-| Sort | Arrange tasks efficiently |
+| Feature      | Description                  |
+| ------------ | ---------------------------- |
+| Add Task     | Create new tasks             |
+| Search       | Find tasks instantly         |
+| Filter       | View pending/completed tasks |
+| Priority     | Manage task importance       |
+| Progress Bar | Track completion percentage  |
+| Sort         | Arrange tasks efficiently    |
 
 ---
 
-## 🔗 GitHub Repository
+## 🔗 Links
 
-[DoFlow Repository](https://github.com/narayana-yanamadala/To-List-Application)
+### Live Application
+
+https://tda-ruby.vercel.app/
+
+### GitHub Repository
+
+https://github.com/narayana-yanamadala/To-List-Application
 
 ---
 
@@ -112,8 +119,8 @@ Open `Index.html` in your browser.
 
 ### Narayana Yanamadala
 
-- GitHub:  
-  https://github.com/narayana-yanamadala
+GitHub:
+https://github.com/narayana-yanamadala
 
 ---
 
